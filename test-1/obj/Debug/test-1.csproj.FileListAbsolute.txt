@@ -1,0 +1,20 @@
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\bin\Debug\test-1.exe.config
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\bin\Debug\test-1.exe
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\bin\Debug\test-1.pdb
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\obj\Debug\test-1.csprojAssemblyReference.cache
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\obj\Debug\test_1.Form1.resources
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\obj\Debug\test_1.Properties.Resources.resources
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\obj\Debug\test-1.csproj.GenerateResource.cache
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\obj\Debug\test-1.csproj.CoreCompileInputs.cache
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\obj\Debug\test-1.exe
+C:\Users\manadil\Desktop\programmed\C#\GUI\test-1\test-1\obj\Debug\test-1.pdb
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\obj\Debug\test-1.csprojAssemblyReference.cache
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\obj\Debug\test_1.Form1.resources
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\obj\Debug\test-1.csproj.GenerateResource.cache
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\obj\Debug\test-1.csproj.CoreCompileInputs.cache
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\bin\Debug\small editor open and save.exe.config
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\bin\Debug\small editor open and save.exe
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\bin\Debug\small editor open and save.pdb
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\obj\Debug\SmallEditor.Properties.Resources.resources
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\obj\Debug\small editor open and save.exe
+C:\Users\manadil\Desktop\programming\C#\GUI\test-1\test-1\obj\Debug\small editor open and save.pdb
